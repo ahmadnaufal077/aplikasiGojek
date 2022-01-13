@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Controller/AllObjectController.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Helper/KoneksiDb.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Gui/LoginGui.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Model/AdminModel.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Gui/RegisterGui.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Model/AllObjectModel.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Entity/UserEntity.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Entity/UserEntityAbstract.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Gui/LoginAdminGui.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/gojek/layanangojek.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Model/UserModel.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Gui/RegisterAdminGui.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Gui/UserGui.java</file>
+            <file>file:/E:/ITATS/Semester%203/Java/aplicationGojek/src/Controller/UserController.java</file>
+        </group>
+    </open-files>
+</project-private>
